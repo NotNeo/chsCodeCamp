@@ -1,0 +1,45 @@
+/* Global Styles*/
+body {
+	font-family: helvetica;
+
+}
+
+a{
+	color: #444;
+	text-decoration: none;
+}
+/*END Global Styles*/
+
+header{
+	background: #888;
+	height: 100px;
+}
+
+.header_inner {
+	width: 960px;
+	margin: 0 auto;
+}
+.header_inner img {
+	margin: 13px 80px 0 0;
+	float: left;
+}
+
+.header_inner ul {
+	float: left;
+	margin-top: 37px;
+}
+
+.header_inner li {
+	float: left;
+	margin-right: 100px;
+}
+
+.header_inner li a {
+	font-size: 18px;
+}
+
+#content{
+	width: 960px;
+	margin: 0 auto;
+	padding-top: 30px;
+}
